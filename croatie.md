@@ -4,7 +4,7 @@
 * 14 * Lacs
 * 15 * Lacs
 * 16 * Lacs
-* 17 * Split route - rendre la caisse - ferry
+* 17 * Split route - rendre la caisse - ferry 17h SEM Marina shop Split, phone: 021 338560, JADROLINIJA, Split, tel. 021 338 216
 * 18 * Korcula - Parc Lastovo (10:45 - ) > [ferry](http://www.korculainfo.com/ferries/ferry-catamaran-dubrovnik-sipan-mljet-korcula-lastovo/)
 * 19 * Korcula - [Kayak](https://www.facebook.com/Rent-a-kayak-tri-yak-or-boat-Korcula-796960290400008/)
 * 20 * Korcula
