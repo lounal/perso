@@ -6,7 +6,7 @@
 * 16 * Lacs
 * 17 * Split route - rendre la caisse - ferry
 * 18 * Korcula - Parc Lastovo (10:45 - ) > [ferry](http://www.korculainfo.com/ferries/ferry-catamaran-dubrovnik-sipan-mljet-korcula-lastovo/)
-* 19 * Korcula 
+* 19 * Korcula - [Kayak](https://www.facebook.com/Rent-a-kayak-tri-yak-or-boat-Korcula-796960290400008/)
 * 20 * Korcula
 * 21 * 
 * 22 *
