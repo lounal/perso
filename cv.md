@@ -1,3 +1,5 @@
+
+
 ---
 - Pour qui ? : Panacée - Arnaud
 - Pour quoi ? : serveuse, réceptionniste, commerciale
@@ -23,4 +25,9 @@
 
 Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
 
-*Bio*
+### Compétences
+- Anglais - &#9658;
+
+
+### Bio*
+
