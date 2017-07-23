@@ -12,7 +12,15 @@
   - Pas assez motivé
   
 * Top 3 solutions
-  - 
+  - Comptez sur moi
+  - À l'écoute des besoins
+  - Quand je fais un truc, je le fais bien
 
+* UVP
+- pétillante et péchue
+- fiable et honnête
+- autonome et pertinente
+
+Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
 
 *Bio*
