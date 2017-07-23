@@ -26,8 +26,17 @@
 Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
 
 ### Compétences
-- Anglais - &#9733;&#2605;&#2605;
+- Relationnel - &#9733;&#9733;&#9733;&#9733;&#9733;
+- Autonomie - &#9733;&#9733;&#9733;&#9733;&#9733;
+- Expérience - &#2300;
 
+- Anglais - &#9733;&#9733;&#9733;
+- Espagnol - &#9733;&#9733;
+- Écoute - &#9733;&#9733;&#9733;
+- 
+
+Vélocité, Présentation, Adaptabilité, Expérience, Énergie
 
 ### Bio*
 
+- Pas trop me parler le matin avant le café
