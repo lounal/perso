@@ -29,7 +29,7 @@ Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pou
 - Expérience - &#8709;
 - Relationnel - &#9733;&#9733;&#9733;&#9733;&#9733;
 - Autonomie - &#9733;&#9733;&#9733;&#9733;&#9733;
-- Vélocité - &#9733;&#9733;&#9733;;&#9733;
+- Vélocité - &#9733;&#9733;&#9733;&#9733;
 - Adaptabilité - &#9733;&#9733;&#9733;&#9733;&#9733;
 - Présentation - &#9733;&#9733;&#9733;&#9733;
 - Écoute - &#9733;&#9733;&#9733;
