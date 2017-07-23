@@ -26,7 +26,7 @@
 Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
 
 ### Compétences
-- Anglais - &#2605;&#2605;&#2605;
+- Anglais - &#9733;&#2605;&#2605;
 
 
 ### Bio*
