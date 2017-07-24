@@ -25,15 +25,21 @@
 
 Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
 
+### Équipement
+- Voiture : &#8709;
+- Permis : dans 45 jours
+- Majorité : dans 45 jours
+- Moyen de transport : &#128652;, train, tram, 
+
 ### Compétences
-- Expérience - &#8709;
-- Relationnel - &#9733;&#9733;&#9733;&#9733;&#9733;
-- Autonomie - &#9733;&#9733;&#9733;&#9733;&#9733;
-- Vélocité - &#9733;&#9733;&#9733;&#9733;
-- Adaptabilité - &#9733;&#9733;&#9733;&#9733;&#9733;
-- Présentation - &#9733;&#9733;&#9733;&#9733;
-- Écoute - &#9733;&#9733;&#9733;
-- Énergie - &#9733;&#9733;&#9733;&#9733;
+- Expérience : &#8709;
+- Relationnel : &#9733;&#9733;&#9733;&#9733;&#9733;
+- Autonomie : &#9733;&#9733;&#9733;&#9733;&#9733;
+- Vélocité : &#9733;&#9733;&#9733;&#9733;
+- Adaptabilité : &#9733;&#9733;&#9733;&#9733;&#9733;
+- Présentation : &#9733;&#9733;&#9733;&#9733;
+- Écoute : &#9733;&#9733;&#9733;
+- Énergie : &#9733;&#9733;&#9733;&#9733;
 
 - Anglais - &#9733;&#9733;&#9733;
 - Espagnol - &#9733;&#9733;
