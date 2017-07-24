@@ -57,6 +57,13 @@ et d'un tiers ou mi-temps pour le reste de l'année.
 
 Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
 
+
+#### FAQ
+
+- Embaucher un mineur, c'est compliqué ?
+Juste deux
+
+
 #### Combien ça coûte ? 
 
 Par mois => 1500 brut
