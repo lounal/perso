@@ -26,11 +26,12 @@
 - autonome et pertinente
 
 ### Équipement
-- Voiture : &#8709;
-- Permis : dans 45 jours
-- Majorité : dans 45 jours
 - Moyen de transport : &#128652;, train, tram, 
 - (emoji diplome) Bac littéraire, mention bien
+- autorisation du représentant légale
+---
+- Voiture et permis : &#8709; (dans 45 jours)
+- Majorité : &#8709; dans 45 jours
 
 ### Compétences
 - Expérience : &#8709;
@@ -50,9 +51,8 @@
 Je suis Louna, née à Montpellier le 18 septembre, je cours vers mes 18 ans. 
 Je viens de passer mon bac et me dirige vers la fac Paul Valéry pour entammer une licence d'anthropologie.
 
-Pour être indépendante, je suis à la recherche d'un emploi à plein temps pour le mois d'août,
+Pour être indépendante je suis à la recherche d'un emploi à plein temps pour le mois d'août,
 et d'un tiers ou mi-temps pour le reste de l'année.
-
 
 
 Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
@@ -61,7 +61,11 @@ Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pou
 #### FAQ
 
 - Embaucher un mineur, c'est compliqué ?
-Juste deux
+Juste deux trois choses à prendre en compte :
+  - l'autorisation du représentant légale
+  - temps de travail limité à 35 heures
+  - travail de nuit >22h sauf dérogation professionnelle (hotelerie, spectacle, ...)
+  - 
 
 
 #### Combien ça coûte ? 
