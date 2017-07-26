@@ -1,8 +1,7 @@
-
 ### Équipement
 - Moyen de transport : &#128652; &#128650; &#128644;
 - &#127891; : Bac littéraire, mention bien
-- autorisation du représentant légale
+-  	&#128442; : autorisation du représentant légale
 ---
 - Voiture et permis : &#8709; (dans 45 jours)
 - Majorité : &#8709; dans 45 jours
@@ -50,5 +49,6 @@ Juste deux trois choses à prendre en compte :
 Pour une question ou m'embaucher, n'hésitez pas à m'appeler.
 
 Louna Langlois,
-langlois@louna.com / 06 16 47 33 77
+&#9993; : langlois@louna.com
+&#128222; : 06 16 47 33 77
 
