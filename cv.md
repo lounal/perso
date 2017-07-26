@@ -40,15 +40,15 @@ Juste deux trois choses à prendre en compte :
   - sauf dérogation professionnelle (hotelerie, spectacle, ...) je ne peux pas travailler de nuit >22h
   - une visite médicale avant l'embauche est obligatoire
   
-* Combien je coûte ?
-  J'ai besoin de 1500 € brut par mois, ou de 133 € brut si vous m'embauchez à la journée.
+* Combien je coûte ?  
+J'ai besoin de 1500 € brut par mois, ou de 133 € brut si vous m'embauchez à la journée.
  
 
 #### Contactez-moi
 
-Pour une question ou m'embaucher, n'hésitez pas à m'appeler.
+Pour une question ou m'embaucher, n'hésitez pas à m'appeler.  
 
-Louna Langlois,
-&#9993; : langlois@louna.com
-&#128222; : 06 16 47 33 77
+Louna Langlois,  
+&#9993; : langlois@louna.com  
+&#128222; : 06 16 47 33 77  
 
