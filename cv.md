@@ -48,14 +48,17 @@
 
 ### Bio
 
+> Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
+
 Je suis Louna, née à Montpellier le 18 septembre, je cours vers mes 18 ans. 
-Je viens de passer mon bac et me dirige vers la fac Paul Valéry pour entammer une licence d'anthropologie.
+Je viens de passer mon bac et me dirige vers la fac Paul Valéry pour entammer une licence d'anthropologie.  
 
 Pour être indépendante je suis à la recherche d'un emploi à plein temps pour le mois d'août,
-et d'un tiers ou mi-temps pour le reste de l'année.
+et d'un tiers ou mi-temps pour le reste de l'année.  
 
+Après m'être renseignée j'ai constaté que ce n'était pas facile pour un employeur de trouver des personnes sûres, à l'écoute et autonomes.  
 
-Je suis une jeune fille pétillante et fiable qui sait m'adapter au contexte pour fournir un service de qualité.
+En m'engageant, vous embauchez quelqu'un sur qui compter, qui saura être à l'écoute de vos demandes pour un résultat de qualité.
 
 
 #### FAQ
