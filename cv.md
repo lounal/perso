@@ -46,7 +46,7 @@ J'ai besoin de 1500 € brut par mois, ou de 133 € brut si vous m'embauchez à
 
 #### Contactez-moi
 
-Pour une question ou m'embaucher, n'hésitez pas à m'appeler.  
+Pour une question ou pour m'embaucher, n'hésitez pas à m'appeler.  
 
 Louna Langlois,  
 &#9993; : langlois@louna.com  
