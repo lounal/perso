@@ -1,0 +1,43 @@
+@page {
+    size: B5;
+    margin: 0;
+}
+@media print {
+    html, body {
+        width: 210mm;
+        height: 148mm;
+        margin: 10mm;
+    }
+}
+
+body {
+    font-family: arial;
+    width: 840px;
+    height: 592px;
+    margin: 2em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+ul.competences {
+    display: flex;
+}
+
+ul {
+    padding: 0px;
+    list-style-type: none;
+}
+
+li {
+    padding-right: 1em;
+}
+
+li.question {
+    font-weight: 600;
+}
+
+li.reponse {
+    padding-left: 1em;
+}
